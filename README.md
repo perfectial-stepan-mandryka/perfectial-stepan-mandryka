@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 - 👋 I’m Stepan
 - 👀 I’m interested in system design, cloud computing, and automotive industry
 - 🌱 Currently learning Domain Driven Design and C4 model
